@@ -1,11 +1,12 @@
 # leetcode
 I store some of my approach to leetcode's questions here
 
-Warm up
+Easy
+1) Two Sum
 
 Intermediate
 
-Hard AF
+Hard
 
 
 DISCLAIMER
