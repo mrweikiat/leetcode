@@ -5,6 +5,7 @@ Easy
 1) Two Sum
 2) Contains Duplicates
 3) Best Time to Buy and Sell Stock
+4) Valid Anagram
 
 Intermediate
 
