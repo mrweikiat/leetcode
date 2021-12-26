@@ -8,7 +8,8 @@ Easy
 4) Valid Anagram
 5) Valid Parentheses
 
-Intermediate
+Medium
+1) Product of Array except Self
 
 Hard
 
