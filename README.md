@@ -7,6 +7,7 @@ Easy
 3) Best Time to Buy and Sell Stock
 4) Valid Anagram
 5) Valid Parentheses
+6) Maximum Subarray
 
 Medium
 1) Product of Array except Self
