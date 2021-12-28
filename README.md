@@ -11,6 +11,7 @@ Easy
 
 Medium
 1) Product of Array except Self
+2) Merged Intervals
 
 Hard
 
