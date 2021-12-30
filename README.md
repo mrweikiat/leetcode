@@ -12,6 +12,7 @@ Easy
 Medium
 1) Product of Array except Self
 2) Merged Intervals
+3) Group Anagrams
 
 Hard
 
